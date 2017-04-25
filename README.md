@@ -25,7 +25,7 @@ console.log(min(0, -10));
 function isEven(a) {
 if (a % 2 === 0){
   return true;
-}else it(a % 2 !== 0) {
+}else if(a % 2 !== 0) {
   return false;
 }else {
 return
